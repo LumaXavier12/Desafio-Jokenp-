@@ -5,6 +5,6 @@
 <br>
 <p>Para determinar esses parâmetros foi utilizado if, elseif && else, de acordo com as regras básicas deste jogo tão popular.</p>
 
-<h2>Tecnologias utilizadas
+<h2>Tecnologias utilizadas: 
 HTML | CSS | JavaScript
-:</h2>
+</h2>
